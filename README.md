@@ -2,6 +2,13 @@
 
 A modern, production-ready Photo Card Generator system for News Portals with Bangla and English font support.
 
+<img width="996" height="888" alt="1" src="https://github.com/user-attachments/assets/a8232e49-94ef-4685-91d6-7b6eb13a2e56" />
+
+<img width="1154" height="855" alt="2" src="https://github.com/user-attachments/assets/e50d989f-7265-413f-aefc-163c3be36045" />
+
+<img width="967" height="388" alt="3" src="https://github.com/user-attachments/assets/a9a24528-8de6-4e5c-9f4f-37e5afc18ad7" />
+
+
 ## Features
 
 - ✅ Dynamic image generation with Intervention Image
